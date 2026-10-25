@@ -1,0 +1,3 @@
+# Branch protection requires a code owner's approval to merge into main.
+# The agent that writes a change can never approve it.
+*  @barefoot-bluecat
